@@ -1,0 +1,46 @@
+form#login {
+    
+background: gray;
+width: 250px;
+height:  250px;
+padding: 50px;
+margin: 8px;
+border: solid 3px;
+}
+form#getintouch {
+background: red;
+width:21%;
+padding: 25px;
+margin:8px 0;
+border: solid 3px;
+}
+
+button{
+    margin-right:auto;
+}
+
+form#registration {
+background: olive;
+width: 20%;
+padding: 25px;
+margin:8px 0;
+border: solid 3px;
+}
+
+input
+{
+    background:aquamarine;
+    text-align: center;
+}
+td
+{
+    align-items: center;
+}
+
+
+
+
+
+
+
+
